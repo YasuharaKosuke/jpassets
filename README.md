@@ -11,3 +11,7 @@ $ pip install jpassets.py
 
 # How to run 
 $ python jpassets.py
+<img src='https://github.com/YasuharaKosuke/jpassets/blob/main/Figure_1.png' height=480 width=640>
+$ python jpassets.py 2012
+<img src='https://github.com/YasuharaKosuke/jpassets/blob/main/Figure_2.png' height=480 width=640>
+
