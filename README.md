@@ -6,7 +6,9 @@ By executing the code, you can visualize the net asset value data of the mutual 
 You may need matplotlib library.
 
 $ pip install matplotlib
+
 $ pip install pandas
+
 $ pip install jpassets.py
 
 
