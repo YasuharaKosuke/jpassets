@@ -1,5 +1,6 @@
 # jpassets
 The goal of this project is to visualize total net assets-structure of Investment trusts of countries.
+By executing the code, you can visualize the net asset value data of the mutual funds you have acquired.Also, by specifying the number of years, it is possible to visualize data only for that year.
 
 # How to install jpassets on Linux, MacOS, or WSL on Windows
 You may need matplotlib library.
